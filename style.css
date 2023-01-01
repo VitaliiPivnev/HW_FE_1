@@ -1,0 +1,43 @@
+h2{
+    margin-left: 45%;
+    color: rgb(202, 45, 56);
+}
+.img{
+    width: 350px;
+    height: 190px;
+}
+.link{
+    color: red;
+}
+#hobby{
+    background-color: rgb(34, 107, 170);
+    border: 1px solid black;
+    margin: 15px 20px 15px 20px;
+    padding: 20px 20px 20px 20px;
+    color: rgb(214, 188, 255);
+}
+#work{
+    background-color: rgb(37, 161, 78);
+    border: 1px solid black;
+    margin: 15px 20px 15px 20px;
+    padding: 20px 20px 20px 20px;
+    color: rgb(252, 232, 164);
+}
+#friends{
+    background-color: rgb(122, 43, 157);
+    border: 1px solid black;
+    margin: 15px 20px 15px 20px;
+    padding: 20px 20px 20px 20px;
+    color: rgb(219, 139, 17);
+}
+.SL{
+    width: 15px;
+    height: 15px;
+}
+#social{
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 45%;
+    margin: 15px 20px 15px 20px;
+}
